@@ -57,9 +57,9 @@ console.log(strReversed);
 let lexicoOrder = [hacker2,hacker1]
 lexicoOrder = lexicoOrder.sort();
 
-if(lexicoOrder = 'Amanda'){
+if(lexicoOrder = hacker1){
     console.log(`The driver's name go first.`)
-} else if(lexicoOrder != 'Amanda'){
+} else if(lexicoOrder != hacker1){
     console.log(`Yo, the navigator goes first definitely.`)
 }else{
     console.log(`What?! You both have the same name?`)
